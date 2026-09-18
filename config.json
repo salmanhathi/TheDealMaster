@@ -1,0 +1,58 @@
+{
+  "pin_groups": {
+    "shared": "9898"
+  },
+  "tools": [
+    {
+      "id": "pricebook",
+      "name": "Price Book Generator",
+      "url": "https://pricebook-xyz.onrender.com",
+      "pin_group": "shared",
+      "enabled": true,
+      "icon": "📄"
+    },
+    {
+      "id": "variation",
+      "name": "Color & Size Variation Generator",
+      "url": "https://variation-gen.onrender.com",
+      "pin_group": "shared",
+      "enabled": true,
+      "icon": "🧩"
+    },
+    {
+      "id": "xml2excel",
+      "name": "XML to Excel",
+      "url": "https://xml-to-excel.onrender.com",
+      "pin_group": "shared",
+      "enabled": true,
+      "icon": "📊"
+    },
+    {
+      "id": "product_scanner",
+      "name": "Product Details Scanner",
+      "url": "https://product-scanner.onrender.com",
+      "pin_group": "custom",
+      "pin": "1396",
+      "enabled": true,
+      "icon": "🔍"
+    },
+    {
+      "id": "category_scanner",
+      "name": "Product Category Scanner",
+      "url": "https://category-scanner.onrender.com",
+      "pin_group": "custom",
+      "pin": "1396",
+      "enabled": true,
+      "icon": "🗂️"
+    },
+    {
+      "id": "stock_ats",
+      "name": "Product Stock ATS Scanner",
+      "url": "https://stock-ats.onrender.com",
+      "pin_group": "custom",
+      "pin": "1396",
+      "enabled": true,
+      "icon": "📦"
+    }
+  ]
+}
